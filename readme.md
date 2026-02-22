@@ -1,21 +1,30 @@
 <h1 align="center">Vishal</h1>
-<p align="center">Full Stack Developer • Open Source • AI Exploration</p>
+<p align="center">
+Building systems. Shipping products. Exploring AI.
+</p>
 
 ---
 
-## About
+## ⚡ What I Do
 
-- Building **Open Velo**
-- Learning AI / ML systems
-- Writing technical blogs
-- Open to collaboration
-
-📩 04vishal.com@gmail.com
+- 🚀 Building **Open Velo**
+- 🧠 Exploring AI & ML systems
+- 🛠 Crafting full-stack applications
+- ✍ Writing technical breakdowns
+- 🤝 Open to serious collaboration
 
 ---
 
+## 🧠 Current Focus
 
-## Connect
+- Scalable backend architecture
+- AI-powered tooling
+- Performance-driven frontend
+- Clean developer workflows
+
+---
+
+## 🌍 Connect
 
 <p align="center">
 <a href="https://x.com/VishalxDev">
@@ -38,10 +47,9 @@
 </a>
 </p>
 
-
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,postgres,linux,git,figma"/>
@@ -49,7 +57,8 @@
 
 ---
 
+## 🧩 Philosophy
 
-
-
-
+> Build things that matter.  
+> Learn aggressively.  
+> Stay dangerous.
