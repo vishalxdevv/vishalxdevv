@@ -49,13 +49,7 @@
 
 ---
 
-## Activity
 
-<p align="center">
-<a href="https://app.daily.dev/vishalxdev">
-<img src="https://api.daily.dev/devcards/v2/4lv5OUwXo9IQGWZfeej55.png?r=su1&type=wide" width="600"/>
-</a>
-</p>
 
 
 
